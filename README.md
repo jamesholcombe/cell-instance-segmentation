@@ -8,4 +8,3 @@ This is an implementation of the **Vec2Instance** architecture, applied to insta
 
 >The code for the original implementation for a different use case is here: LINK
 
-Many thanks to the original authors of the paper for providing clear code and intuitive explanations.
